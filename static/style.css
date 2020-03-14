@@ -1,0 +1,13 @@
+.bg-info {
+    background-color: #679fd3a1!important;
+}
+.navbar-dark .navbar-brand {
+    color:rgb(0, 0, 0);
+}
+.btn-outline-dark {
+    color:gold;
+    border-color:rgba(0, 0, 0, 0.411);
+}
+.navbar-dark .navbar-brand:hover {
+    color: white;
+}
