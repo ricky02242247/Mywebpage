@@ -21,6 +21,3 @@ def diary(c):
         contents.append((name, page, i))
     return render_template("page.html", cs = contents)
 
-server.run(debug=True,
-           host="0.0.0.0",
-           port="3000")
